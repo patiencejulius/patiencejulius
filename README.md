@@ -3,12 +3,21 @@
 
 
 
-I am a recent graduate IT with a profound interest in technology and a dedication to solving complex problems.with my good experties in computer management and deep understanding of the network management and troubleshooting.
+I am a Experienced IT Support Specialist with five years of expertise in technical troubleshooting, cloud solutions, and system administration. Adept at resolving hardware, software, and network issues while ensuring smooth IT operations. Skilled in remote support, working with ticketing systems, and optimizing system performance. Passionate about delivering top-tier customer service and driving IT efficiency.
 
 ## Objective
 
 
-My journey in the IT world  has led me to develop a passion for networking , and I am now eager to transition into this field, specifically aiming to join a help desk as a Tier 1 Analyst.
+Highly motivated IT Support Specialist with five years of experience in troubleshooting, network management, and cloud support. Passionate about system administration, eager to enhance IT infrastructure, optimize server performance, and implement security best practices. Seeking a role where I can leverage my expertise in Windows/Linux systems, cloud platforms (AWS, Azure), and automation tools to improve operational efficiency and minimize downtime. Dedicated to delivering top-tier technical support and ensuring seamless IT operations in dynamic environments.
+
+
+
+
+
+
+
+
+
 
 ## Skills
 Active directory ,remote access,securing networks,computer management,network managment,customer support,good communication skills.
